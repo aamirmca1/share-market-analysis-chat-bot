@@ -47,7 +47,7 @@ Answer Generation
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/share-market-analysis-chat-bot.git
+git clone https://github.com/aamirmca1/share-market-analysis-chat-bot.git
 cd share-market-analysis-chat-bot
 ```
 
@@ -130,4 +130,4 @@ share-market-analysis-chat-bot/
 
 ## Author
 
-Mohammed
+Mohammed Aamir
