@@ -130,4 +130,4 @@ share-market-analysis-chat-bot/
 
 ## Author
 
-Mohammed
+Mohammed Aamir
